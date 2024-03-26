@@ -1,1 +1,2 @@
 git_src --branch debian/1.0.2-2 https://salsa.debian.org/python-team/packages/fail2ban.git
+version_suffix=gardenlinux0
